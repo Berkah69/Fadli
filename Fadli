@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<title>Login Ke Hati</title>
+		<meta name="viewport" content="width-device=width, initial-scale=1.0">
+			<br>
+			<center><image src="https://i.ibb.co/2Pp5Nt7/tenor.gif" height=150, width=150></center>
+		</head>
+	<body bgcolor="black">
+		<font color="white">
+		<h3>Masukan Nama Kamu Untuk Username</h3>
+		<h3>Masukan iloveyou Untuk Password </h3>
+			USERNAME <input type="text">
+				<br><br>
+			PASSWORD <input type="password">
+				<br><br>
+			<center><button type="button" Onclick="klik()">LOGIN</button></center>
+	<script>
+		function klik() 
+		{
+			alert("Selamat Kamu Berhasil Login Ke Hati Aku");
+			alert("Sekarang Nama Kamu Udah Terdaftar Di Hati Aku");
+			alert("Makasih Ya Kamu Udah Masuk Ke Hati Aku");
+			alert("Semoga Betah Ya");
+			alert("Byeee...");
+		}
+		</script>
+	</body>
+	</html>
